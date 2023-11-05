@@ -10,4 +10,4 @@ Route53を使用することで、AWSで開発したWebサービスを任意のU
 - DNS ルーティング
 - ヘルスチェック
 
-![](../picture/ROUTE53_img.png)
+![](../../../picture/ROUTE53_img.png)

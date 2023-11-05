@@ -11,4 +11,4 @@ Amazon Elastic Compute Cloud (Amazon EC2) とは、Amazonが提供する「仮�
 - ログイン管理機能
   - インスタンスへのログイン情報を公開鍵暗号方式で管理できる。セッションマネージャを利用してセキュアに接続することが可能。
 
-![](../picture/EC2_img.png)
+![](../../../picture/EC2_img.png)

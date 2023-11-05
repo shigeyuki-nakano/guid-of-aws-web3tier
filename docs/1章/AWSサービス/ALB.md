@@ -16,6 +16,4 @@ ALB（Application Load Balancer）とは、Webサービスにおける負荷を�
 - EC2やECSにパスで振り分けることでルーティングが可能となりアプリごとにロードバランサーを用意しなくて良い。
 - SSL/TLS証明書の管理、Amazon Cognitoと連携したユーザー認証、アクセスログ機能、ウェブアプリケーションファイアウォールのAWS WAFなどのサービスがあり、セキュリティ機能が充実している。
 
-![](../picture/ALB_img.png)
-
-
+![](../../../picture/ALB_img.png)

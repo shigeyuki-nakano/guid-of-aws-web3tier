@@ -5,4 +5,4 @@
 * [RDS](./AWSサービス/RDS.md)
 * [EC2](./AWSサービス/EC2.md)
 * [S3](./AWSサービス/S3.md)
-* [Route53](./AWSサービス/Route53.md)
+* [Route53](./AWSサービス/ROUTE53.md)

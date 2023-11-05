@@ -18,4 +18,4 @@ Amazon Relational Database Service (Amazon RDS) とは、リレーショナル�
 
 RDSを利用できるのであれば採用することが望ましいが、RDB on EC2の方が自由度は高い。
 
-![](../picture/RDS_img.png)
+![](../../../picture/RDS_img.png)

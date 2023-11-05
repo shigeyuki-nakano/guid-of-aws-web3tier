@@ -8,5 +8,4 @@ AWS VPC（Amazon Web Service Virtual Private Cloud）とは、仮想ネットワ
 
 VPCでネットワークを分割することで、請求単位毎にアカウントを分割し、請求管理を簡素化することができる。
 
-![](../picture/VPC_img.png)
-
+![](../../../picture/VPC_img.png)
