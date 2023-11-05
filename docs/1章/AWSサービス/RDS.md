@@ -1,4 +1,4 @@
-# VPCについて
+# RDSについて
 Amazon Relational Database Service (Amazon RDS) とは、リレーショナルデータベースをスケーリングするサービスのこと。
 
 データベースの管理と運用に関するタスクを自動化している。

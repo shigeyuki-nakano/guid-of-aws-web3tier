@@ -1,4 +1,4 @@
-# VPCについて
+# EC2について
 Amazon Elastic Compute Cloud (Amazon EC2) とは、Amazonが提供する「仮想サーバサービス」のこと。
 
 物理サーバの構築や環境構築作業をすることなく、手軽に仮想サーバを用意することができる。
