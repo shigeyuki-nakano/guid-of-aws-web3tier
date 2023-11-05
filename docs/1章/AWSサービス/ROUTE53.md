@@ -1,4 +1,4 @@
-# ROUTE53について
+# Route53について
 Route53とは、AWSが提供するDNS（Domain Name System）サービスのこと。
 
 Route53を使用することで、AWSで開発したWebサービスを任意のURLで公開することができる。
@@ -9,5 +9,7 @@ Route53を使用することで、AWSで開発したWebサービスを任意のU
 - ドメイン名の登録
 - DNS ルーティング
 - ヘルスチェック
+
+詳細は[こちら](https://aws.amazon.com/jp/route53/)を参照のこと
 
 ![](../../../picture/ROUTE53_img.png)
