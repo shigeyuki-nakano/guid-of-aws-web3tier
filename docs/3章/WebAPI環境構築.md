@@ -11,7 +11,7 @@
 <img src="./picture/vpc_search.png" width="500" alt="ネットワーク作成手順ガイド">
 1. 左ペインから「Subnets」を選択
 1. 右上の「サブネットを作成」ボタンをクリック
-1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit#gid=1079908129)の「サブネット一覧」シートを参照し、自分担当の以下を設定
+1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit?usp=sharing)の「サブネット一覧」シートを参照し、自分担当の以下を設定
 <img src="./picture/subnet_create.png" width="500" alt="ネットワーク作成手順ガイド">
     - publicサブネット
     - アプリケーションサブネット
@@ -22,18 +22,18 @@
 1. 左ペインから「Route tables」を選択
 1. publicサブネットのルーティング設定
     1. ルートテーブル画面から、右上の「ルートテーブル作成」ボタンをクリック
-    1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit#gid=1079908129)の「ルートテーブル一覧」シートを参照し、自分担当のpublicルートテーブルを設定
+    1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit?usp=sharing)の「ルートテーブル一覧」シートを参照し、自分担当のpublicルートテーブルを設定
     <img src="./picture/rt_create.png" width="500" alt="ネットワーク作成手順ガイド">
     1. 設定項目の入力が完了したら、「ルートテーブルを作成」ボタンをクリックし、正常作成を確認
     <img src="./picture/rt_created.png" width="500" alt="ネットワーク作成手順ガイド">
     1. ルートテーブル詳細画面 > ルートタブから、ルートを編集をクリック
     <img src="./picture/rt_route.png" width="500" alt="ネットワーク作成手順ガイド">
-        1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit#gid=1079908129)の「ルート一覧」シートを参照し、publicルートテーブルのルート一覧を設定する
+        1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit?usp=sharing)の「ルート一覧」シートを参照し、publicルートテーブルのルート一覧を設定する
         1. 変更を保存をクリックし、正常保存を確認する
         <img src="./picture/rt_route_created.png" width="500" alt="ネットワーク作成手順ガイド">
     1. ルートテーブル詳細画面 > サブネットの関連付けタブから、サブネットの関連付けを編集をクリック
     <img src="./picture/rt_associate_subnet.png" width="500" alt="ネットワーク作成手順ガイド">
-        1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit#gid=1079908129)の「ルートテーブル一覧」シートの関連付けサブネットを参照し、設定する
+        1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit?usp=sharing)の「ルートテーブル一覧」シートの関連付けサブネットを参照し、設定する
         1. 変更を保存をクリックし、正常保存を確認する
         <img src="./picture/rt_associate_subnet_created.png" width="500" alt="ネットワーク作成手順ガイド">
 1. アプリケーションサブネットのルーティング設定
@@ -53,7 +53,7 @@
 1. 左ペインから「インスタンス」を選択
 1. 右上の「インスタンスを起動」ボタンをクリック
 1. インスタンスを起動画面
-    1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit#gid=1079908129)の「EC2インスタンス一覧」シートを参照し、自分担当のリソース名で設定
+    1. [AWS勉強会 設定項目一覧](https://docs.google.com/spreadsheets/d/1X1n6WjJm4JfGjnZfjlxeLdW2Ue70t2Mjl9NUxywNPTY/edit?usp=sharing)の「EC2インスタンス一覧」シートを参照し、自分担当のリソース名で設定
     <img src="./picture/ec2_create.png" width="500" alt="ネットワーク作成手順ガイド">
     1. 設定項目の入力が完了したら、「インスタンスを起動」ボタンをクリックし、正常起動を確認
 
