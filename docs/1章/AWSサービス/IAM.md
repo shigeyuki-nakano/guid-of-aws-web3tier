@@ -10,5 +10,6 @@ AWS Identity and Access Management (IAM) は、AWSリソースへのアクセス
 
 メンバーが適切な権限でシステムにアクセスできるための、情報セキュリティの基盤となる概念。
 
-![](../picture/IAM_img.png)
+詳細は[こちら](https://aws.amazon.com/jp/iam/)を参照のこと
 
+![](../../../picture/IAM_img.png)
