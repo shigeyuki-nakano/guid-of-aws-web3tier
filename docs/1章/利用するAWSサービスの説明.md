@@ -4,5 +4,6 @@
 * [ALB](./AWSサービス/ALB.md)
 * [RDS](./AWSサービス/RDS.md)
 * [EC2](./AWSサービス/EC2.md)
+    * [Auto Scaling](./AWSサービス/auto-scaling)
 * [S3](./AWSサービス/S3.md)
 * [Route53](./AWSサービス/ROUTE53.md)
